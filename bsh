@@ -1,0 +1,5 @@
+#!/bin/bash
+param1=$1
+let "c=$param1+1"
+echo $c
+exit 0
